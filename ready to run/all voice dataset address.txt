@@ -1,0 +1,2 @@
+you can find complit dataset of voice from mozila: 
+https://commonvoice.mozilla.org/fa/datasets
